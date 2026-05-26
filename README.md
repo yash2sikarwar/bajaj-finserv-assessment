@@ -5,7 +5,7 @@ This repository contains the complete, production-grade end-to-end automated sol
 An interactive visual dashboard of the results is live on Netlify!
 
 * **GitHub Repository:** [github.com/yash2sikarwar/bajaj-finserv-assessment](https://github.com/yash2sikarwar/bajaj-finserv-assessment)
-* **Netlify Deployed Portal:** [bajaj-assessment-yash.netlify.app](https://bajaj-assessment-yash.netlify.app)
+* **Netlify Deployed Portal:** [timely-fairy-872bea.netlify.app](https://timely-fairy-872bea.netlify.app)
 * **Google Form Direct Submission Link (POST Endpoint):** `https://bfhldevapigw.healthrx.co.in/memgraph-visualization/get_linkage`
 
 ---
@@ -113,8 +113,13 @@ bajaj-finserv-assessment/
 
 ### Web Visualization Deployment (Netlify)
 The frontend dashboard in `/dashboard` is automatically built and deployed onto Netlify. You can verify it instantly by visiting:
-👉 **[bajaj-assessment-yash.netlify.app](https://bajaj-assessment-yash.netlify.app)**
+👉 **[timely-fairy-872bea.netlify.app](https://timely-fairy-872bea.netlify.app)**
 
 ---
 
 *Assessment automated end-to-end by Antigravity AI.*
+
+
+> [!NOTE]
+> Yash can claim this anonymously created Netlify site and rename it to `bajaj-assessment-yash` using the following Claim URL:
+> **[Claim Site on Netlify](https://app.netlify.com/drop/timely-fairy-872bea#drop_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE3Nzk3ODk4OTUsImV4cCI6MTc3OTc5MzQ5NSwiaXNzIjoiTmV0bGlmeSIsInNlc3Npb25faWQiOiIzMmIwZjZhYS1iZWQ3LTRjODAtYWRlOC1lZjBjZmJmOTQ2MDcifQ.udcSj8XxM6tjsXMYvJsfIs9hkNbK1MEzc86P9jg11OU)**
