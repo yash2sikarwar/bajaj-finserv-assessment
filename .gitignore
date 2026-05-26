@@ -1,0 +1,24 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# OCR outputs and temp files
+ocr_test_result.json
+ocr_pdf_result.json
+ocr_all_results.json
+ocr_text_output.txt
+ocr_text_utf8.txt
+notebook_cells.txt
+compare_notebooks.txt
+page_*_img_*.png
+*.log
